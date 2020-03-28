@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "New Stream Testing",
+      "description": "Cool!!",
+      "id": 1
+    },
+    {
+      "title": "Creating Stream with ID",
+      "description": "second description",
+      "id": 2
+    },
+    {
+      "title": "Kimberly Stream",
+      "description": "testing",
+      "userId": "109130644258674126038",
+      "id": 4
+    },
+    {
+      "title": "Hello World",
+      "description": "f",
+      "userId": "115991676240277517824",
+      "id": 5
+    }
+  ]
+}
